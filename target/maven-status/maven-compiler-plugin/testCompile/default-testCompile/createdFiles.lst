@@ -1,2 +1,4 @@
-com\testing\sample\AppTest.class
+com\testing\sample\AdvancedCalculatorTest.class
 com\testing\sample\SampleUtilTest.class
+com\testing\sample\TemperatureCalculatorTest.class
+com\testing\sample\AppTest.class
